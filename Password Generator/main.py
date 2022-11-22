@@ -1,0 +1,5 @@
+print("Welcome to Password Generator!\n")
+fname = input("Enter your first name: ")
+city = input("Enter your city name: ")
+dob = input("Enter your date of birth: ")
+print("Your password could be: "+fname+"in"+city+"@"+dob)
